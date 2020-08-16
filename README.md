@@ -14,11 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Hey 👋, This is Sharoz Ijaz
-[![Gmail Badge](https://img.shields.io/badge/-shahrozijaz2@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:shahrozijaz2@gmail.com)](mailto:shahrozijaz2@gmail.com) 
-[![Linkedin Badge](https://img.shields.io/badge/-www.linkedin.com/in/sharozijaz-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/www.linkedin.com/in/sharozijaz/)](https://www.linkedin.com/in/www.linkedin.com/in/sharozijaz/) [![Github Badge](https://img.shields.io/badge/-@sharozijaz-grey?style=flat&logo=github&logoColor=white&link=https://github.com/@sharozijaz/)](https://www.github.com/@sharozijaz/) [![Twitter Badge](https://img.shields.io/badge/-@sharozijaz-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/@sharozijaz/)](https://www.twitter.com/@sharozijaz/) [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=sharozijaz.github.io/)](sharozijaz.github.io/) <p align='left'>Hi, i am Full Stack Web Developer.I Love to Code and Design websites.</p>
-## Some of my Github Stats
-<p align=left> <img src=https://komarev.com/ghpvc/?username=sharozijaz alt=sharozijaz /> </p>
+![](https://images2.imgbox.com/ea/d2/1sAt9jQR_o.png)
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=sharozijaz&show_icons=true&include_all_commits=true)](https://github.com/sharozijaz/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sharozijaz&layout=compact)](https://github.com/sharozijaz/github-readme-stats)
+I love to code and learning new things every day.
+
+- 🔭 I’m currently working on a Food Delivering APP 
+- ⚡ Fun fact: I Love Playing Video Games 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/sharozijaz)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/sharozijaz/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/sharozijaz/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/sharozijaz)  
+
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> 
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=sharozijaz&show_icons=true)  
+

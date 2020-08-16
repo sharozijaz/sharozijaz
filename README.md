@@ -16,7 +16,5 @@ Here are some ideas to get you started:
 -->
 ![](https://images2.imgbox.com/ea/d2/1sAt9jQR_o.png)
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> 
-
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=sharozijaz&show_icons=true)  
 

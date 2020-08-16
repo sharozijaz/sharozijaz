@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 [![Gmail Badge](https://img.shields.io/badge/-shahrozijaz2@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:shahrozijaz2@gmail.com)](mailto:shahrozijaz2@gmail.com) 
 [![Linkedin Badge](https://img.shields.io/badge/-www.linkedin.com/in/sharozijaz-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/www.linkedin.com/in/sharozijaz/)](https://www.linkedin.com/in/www.linkedin.com/in/sharozijaz/) [![Github Badge](https://img.shields.io/badge/-@sharozijaz-grey?style=flat&logo=github&logoColor=white&link=https://github.com/@sharozijaz/)](https://www.github.com/@sharozijaz/) [![Twitter Badge](https://img.shields.io/badge/-@sharozijaz-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/@sharozijaz/)](https://www.twitter.com/@sharozijaz/) [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=sharozijaz.github.io/)](sharozijaz.github.io/) <p align='left'>Hi, i am Full Stack Web Developer.I Love to Code and Design websites.</p>
 ## Some of my Github Stats
-<p align=left> <img src=https://komarev.com/ghpvc/?username=@sharozijaz alt=@sharozijaz /> </p>
+<p align=left> <img src=https://komarev.com/ghpvc/?username=sharozijaz alt=sharozijaz /> </p>
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=@sharozijaz&show_icons=true&include_all_commits=true)](https://github.com/@sharozijaz/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=@sharozijaz&layout=compact)](https://github.com/@sharozijaz/github-readme-stats)
+[![Github stats](https://github-readme-stats.vercel.app/api?username=@sharozijaz&show_icons=true&include_all_commits=true)](https://github.com/sharozijaz/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sharozijaz&layout=compact)](https://github.com/sharozijaz/github-readme-stats)
